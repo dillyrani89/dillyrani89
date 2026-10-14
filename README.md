@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm U. Dilly Rani 👋
 
-<!--
-**dillyrani89/dillyrani89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Accounts Executive | Accounting & Audit | SAP | Tally
 
-Here are some ideas to get you started:
+I am an M.Com graduate with professional experience in
+accounting, auditing, financial operations, and inventory management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My experience includes maintaining financial records,
+ledger reconciliation, bank reconciliation, vendor payments,
+credit and debit notes, and audit documentation.
+
+## Professional Skills
+
+- Accounting and Financial Operations
+- Bank Reconciliation
+- Ledger Scrutiny and Reconciliation
+- Accounts Payable and Vendor Management
+- Inventory Valuation
+- Credit and Debit Notes
+- Audit Documentation
+- SAP
+- Tally 7.2
+- Microsoft Office
+
+## Education
+
+- M.Com — University of Madras
+- B.Com — University of Madras
+
+## Portfolio Projects
+
+I am building practical projects to demonstrate my accounting
+and financial reporting skills.
+
+- Bank Reconciliation
+- Accounts Payable Tracker
+- Financial Reporting Dashboard
+- Inventory Tracking and Valuation
+
+## Contact
+
+Email: dillyrani89@gmail.com
+Location: Chennai, Tamil Nadu, India
